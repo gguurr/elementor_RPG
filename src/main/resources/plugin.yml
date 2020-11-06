@@ -1,0 +1,4 @@
+name: Rpg
+version: ${project.version}
+main: net.elemntor.rpg.Rpg
+api-version: 1.16
